@@ -1,10 +1,12 @@
-## Linux
+## Scripts
+
+### Linux
 
 ```bash
 ./run.yaml-json.sh
 ```
 
-## MS Windows
+### MS Windows
 
 ```batch
 .\run.yaml-json.cmd
