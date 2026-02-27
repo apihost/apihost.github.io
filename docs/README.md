@@ -1,5 +1,3 @@
-# API Host
-
 ## Linux
 
 ```bash
