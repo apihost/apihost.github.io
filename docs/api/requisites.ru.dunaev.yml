@@ -1,33 +1,14 @@
-bank:
-  account:
-    - rub:
-        beneficiary:
-          name: 'Дунаев Юрий Александрович'
-          account: '40817810006230088456'
-          bank: 'АО Альфа-Банк, г. Москва'
-        bic: '044525593'
-        inn: '7728168971'
-        kpp: '770801001'
-        correspondent:
-          account: '30101810200000000593'
-        target: '[DONATION] Благодарность за помощь в развитии сообществ'
 card:
   - bank: 'Alfa Bank'
     number: '0000 0000 0000 0000'
-    currency: 'eur'
-  - bank: 'Alfa Bank'
-    number: '0000 0000 0000 0000'
     currency: 'rub'
-  - bank: 'Alfa Bank'
-    number: '0000 0000 0000 0000'
-    currency: 'usd'
 crypto:
-  - network: 'eth'
-    address: 'x0f'
+  - network: 'bitcoin'
+    address: 'bc1qlpufe7k3cjq6wctj8qlzwqczc8tagdn2d5u7n6'
     currency: 'btc'
-  - network: 'eth'
-    address: 'x0f'
+  - network: 'ethereum'
+    address: '0x2011dc56A44eb23f879Bd140cf8139150023EA0c'
     currency: 'eth'
-  - network: 'eth'
-    address: 'x0f'
+  - network: 'ton'
+    address: 'UQBGtBmC--RViEBVcQATDji1zDNvXovwENKGewlG3rHXGbaJ'
     currency: 'ton'

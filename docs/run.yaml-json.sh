@@ -17,7 +17,7 @@
 
 function yamlJson() {
   for i in api/*.yml; do
-    yq -p 'yaml' -o 'json' -I 0 "api/${i}" > "api/${i%.*}.json"
+    yq -p 'yaml' -o 'json' -I 0 "${i}" > "${i%.*}.json"
   done
 }
 
