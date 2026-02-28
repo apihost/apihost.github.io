@@ -1,7 +1,3 @@
-card:
-  - bank: 'Alfa Bank'
-    number: '0000 0000 0000 0000'
-    currency: 'rub'
 crypto:
   - network: 'bitcoin'
     address: 'bc1qlpufe7k3cjq6wctj8qlzwqczc8tagdn2d5u7n6'
