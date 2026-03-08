@@ -48,3 +48,30 @@ person:
       position: 'Системный администратор.'
       url: 'https://energots.info/'
       weight: 10
+  links:
+    - name: 'GitHub'
+      icon: 'fab fa-github'
+      description: 'Разработка скриптов и веб-приложений.'
+      url: 'https://github.com/KaiKimera'
+      weight: 10
+    - name: 'Twitch'
+      icon: 'fab fa-twitch'
+      description: 'Просмотр стримов.'
+      url: 'https://twitch.tv/KaiKimera'
+      weight: 10
+    - name: 'VK'
+      icon: 'fab fa-vk'
+      description: 'Связь через группу ВК.'
+      url: 'https://vk.com/KaiKimera'
+      weight: 10
+    - name: 'Telegram'
+      icon: 'fab fa-telegram'
+      description: 'Связь через Telegram.'
+      url: 'https://t.me/KaiKimera'
+      weight: 10
+  signatures:
+    - type: 'gpg'
+      name: 'Kai Kimera'
+      email: 'id@kai.kim'
+      fingerprint: 'DFE7CE9B59DEA81F1EFC143DC6462C460F3BF82A'
+      weight: 10

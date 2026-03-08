@@ -96,10 +96,8 @@ person:
       url: 'https://twitch.com/'
       weight: 10
   signatures:
-    - name: 'gpg'
-      signature: |
-        -----BEGIN PGP PUBLIC KEY BLOCK-----
-        Version: GnuPG v1
-        ... [Key Data] ...
-        -----END PGP PUBLIC KEY BLOCK-----
+    - type: 'gpg'
+      name: 'Example Sign'
+      email: 'mail@example.com'
+      fingerprint: '0000000000000000000000000000000000000000'
       weight: 10
