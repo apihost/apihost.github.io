@@ -98,6 +98,7 @@ person:
   signatures:
     - type: 'gpg'
       name: 'Example Sign'
-      email: 'mail@example.com'
-      fingerprint: '0000000000000000000000000000000000000000'
+      signature:
+        - email: 'mail@example.com'
+          fingerprint: '0000000000000000000000000000000000000000'
       weight: 10
