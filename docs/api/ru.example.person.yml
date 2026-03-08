@@ -6,12 +6,12 @@ person:
       weight: 10
     - type: 'Транслитерация'
       name: 'Ivanov Ivan Ivanovich'
-      icon: 'fas fa-user'
+      icon: 'fas fa-user-graduate'
       weight: 10
   nicknames:
     - type: 'Основной псевдоним'
       name: 'MegaIvan87'
-      icon: 'fas fa-user'
+      icon: 'fas fa-user-secret'
       weight: 10
   dates:
     - name: 'День рождения'

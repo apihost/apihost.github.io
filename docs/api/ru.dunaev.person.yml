@@ -6,16 +6,16 @@ person:
       weight: 10
     - type: 'Транслитерация'
       name: 'Yuri Dunaev'
-      icon: 'fas fa-user'
+      icon: 'fas fa-user-graduate'
       weight: 10
     - type: 'Загранпаспорт'
       name: 'IUrii Dunaev'
-      icon: 'fas fa-user'
+      icon: 'fas fa-user-tie'
       weight: 10
   nicknames:
     - type: 'Основной псевдоним'
       name: 'Kai Kimera'
-      icon: 'fas fa-user'
+      icon: 'fas fa-user-secret'
       weight: 10
   dates:
     - name: 'День рождения'
