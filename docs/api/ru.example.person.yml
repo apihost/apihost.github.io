@@ -15,8 +15,8 @@ person:
       weight: 10
   dates:
     - name: 'День рождения'
-      date: '1999-01-23'
       icon: 'fas fa-cake-candles'
+      date: '1999-01-23'
       weight: 10
   addresses:
     - name: 'Адрес местонахождения'
@@ -76,18 +76,22 @@ person:
       weight: 10
   links:
     - name: 'Facebook'
+      icon: 'fab fa-facebook'
       description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
       url: 'https://facebook.com/'
       weight: 10
     - name: 'GitHub'
+      icon: 'fab fa-github'
       description: 'Vestibulum ut ligula non risus ultricies finibus non sed nibh.'
       url: 'https://github.com/'
       weight: 10
     - name: 'Instagram'
+      icon: 'fab fa-instagram'
       description: 'Fusce porttitor blandit fermentum. Maecenas posuere id velit in imperdiet.'
       url: 'https://instagram.com/'
       weight: 10
     - name: 'Twitch'
+      icon: 'fab fa-twitch'
       description: 'Vivamus efficitur, magna at euismod commodo, ante tortor dignissim ante, nec tempus felis urna non enim.'
       url: 'https://twitch.com/'
       weight: 10
