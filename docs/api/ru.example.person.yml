@@ -98,7 +98,10 @@ person:
   signatures:
     - type: 'gpg'
       name: 'Example Sign'
-      signature:
-        - email: 'mail@example.com'
-          fingerprint: '0000000000000000000000000000000000000000'
+      email:
+        address: 'mail@example.com'
+        icon: 'fas fa-envelope'
+      fingerprint:
+        hash: '0000000000000000000000000000000000000000'
+        icon: 'fas fa-signature'
       weight: 10
