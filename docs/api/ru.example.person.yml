@@ -13,8 +13,9 @@ person:
       name: 'MegaIvan87'
       icon: 'fas fa-user'
       weight: 10
-  birthday:
-    - date: '1999-01-23'
+  dates:
+    - name: 'День рождения'
+      date: '1999-01-23'
       icon: 'fas fa-cake-candles'
       weight: 10
   addresses:

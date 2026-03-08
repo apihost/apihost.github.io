@@ -17,8 +17,9 @@ person:
       name: 'Kai Kimera'
       icon: 'fas fa-user'
       weight: 10
-  birthday:
-    - date: '1987-03-13'
+  dates:
+    - name: 'День рождения'
+      date: '1987-03-13'
       icon: 'fas fa-cake-candles'
       weight: 10
   addresses:
