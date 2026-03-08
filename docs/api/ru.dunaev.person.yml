@@ -5,16 +5,21 @@ person:
     - 'IUrii Dunaev'
   nicknames:
     - 'Kai Kimera'
-  birthday: '1987-03-13'
+  birthday:
+    - date: '1987-03-13'
+      icon: 'fas fa-cake-candles'
   addresses:
-    - type: 'Адрес местонахождения'
+    - name: 'Адрес местонахождения'
+      icon: 'fas fa-location-dot'
       address: 'Москва, Россия'
       weight: 10
   contacts:
     emails:
       - name: 'mail@kaikim.ru'
+        icon: 'fas fa-envelope'
         address: 'mail@kaikim.ru'
         weight: 10
       - name: 'mail@2221000.ru'
+        icon: 'fas fa-envelope'
         address: 'mail@2221000.ru'
         weight: 10

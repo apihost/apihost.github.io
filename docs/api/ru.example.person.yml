@@ -4,27 +4,48 @@ person:
     - 'Ivanov Ivan Ivanovich'
   nicknames:
     - 'MegaIvan87'
-  birthday: '1999-01-23'
+  birthday:
+    - date: '1999-01-23'
+      icon: 'fas fa-cake-candles'
   addresses:
-    - type: 'Адрес местонахождения'
+    - name: 'Адрес местонахождения'
+      icon: 'fas fa-location-dot'
       address: 'Россия, Москва, ул. Пушкина, д. Колотушкина'
       weight: 10
-    - type: 'Почтовый адрес'
+    - name: 'Почтовый адрес'
+      icon: 'fas fa-location-dot'
       address: 'Россия, Москва, ул. Пушкина, д. Колотушкина'
       weight: 10
-    - type: 'Юридический адрес'
+    - name: 'Юридический адрес'
+      icon: 'fas fa-location-dot'
       address: 'Россия, Москва, ул. Пушкина, д. Колотушкина'
       weight: 10
   contacts:
     emails:
       - name: 'Mail 1'
+        icon: 'fas fa-envelope'
         address: 'mail@example.com'
         weight: 10
       - name: 'Mail 2'
+        icon: 'fas fa-envelope'
         address: 'mail@example.org'
         weight: 10
       - name: 'Mail 3'
+        icon: 'fas fa-envelope'
         address: 'mail@example.net'
+        weight: 10
+    phones:
+      - name: 'Phone 1'
+        icon: 'fas fa-phone'
+        number: '+70000000001'
+        weight: 10
+      - name: 'Phone 2'
+        icon: 'fas fa-phone'
+        number: '+70000000002'
+        weight: 10
+      - name: 'Phone 3'
+        icon: 'fas fa-phone'
+        number: '+70000000003'
         weight: 10
   organizations:
     - name: 'Example Foundation'
