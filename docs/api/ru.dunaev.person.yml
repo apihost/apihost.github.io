@@ -73,9 +73,11 @@ person:
     - type: 'gpg'
       name: 'Kai Kimera'
       email:
-        address: 'id@kai.kim'
+        name: 'Kai Kimera'
         icon: 'fas fa-envelope'
+        address: 'id@kai.kim'
       fingerprint:
-        hash: 'DFE7CE9B59DEA81F1EFC143DC6462C460F3BF82A'
+        name: 'Fingerprint'
         icon: 'fas fa-signature'
+        hash: 'DFE7CE9B59DEA81F1EFC143DC6462C460F3BF82A'
       weight: 10
