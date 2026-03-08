@@ -29,11 +29,11 @@ person:
       weight: 10
   contacts:
     emails:
-      - name: 'mail@kaikim.ru'
+      - name: 'Kai Kimera'
         icon: 'fas fa-envelope'
         address: 'mail@kaikim.ru'
         weight: 10
-      - name: 'mail@2221000.ru'
+      - name: '222-1-000'
         icon: 'fas fa-envelope'
         address: 'mail@2221000.ru'
         weight: 10
