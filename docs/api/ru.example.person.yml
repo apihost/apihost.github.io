@@ -1,9 +1,12 @@
 person:
   names:
-    - 'Иванов Иван Иванович'
-    - 'Ivanov Ivan Ivanovich'
+    - name: 'Иванов Иван Иванович'
+      icon: 'fas fa-user'
+    - name: 'Ivanov Ivan Ivanovich'
+      icon: 'fas fa-user'
   nicknames:
-    - 'MegaIvan87'
+    - name: 'MegaIvan87'
+      icon: 'fas fa-user'
   birthday:
     - date: '1999-01-23'
       icon: 'fas fa-cake-candles'

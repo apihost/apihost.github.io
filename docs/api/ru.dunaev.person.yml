@@ -1,10 +1,14 @@
 person:
   names:
-    - 'Юрий Дунаев'
-    - 'Yuri Dunaev'
-    - 'IUrii Dunaev'
+    - name: 'Юрий Дунаев'
+      icon: 'fas fa-user'
+    - name: 'Yuri Dunaev'
+      icon: 'fas fa-user'
+    - name: 'IUrii Dunaev'
+      icon: 'fas fa-user'
   nicknames:
-    - 'Kai Kimera'
+    - name: 'Kai Kimera'
+      icon: 'fas fa-user'
   birthday:
     - date: '1987-03-13'
       icon: 'fas fa-cake-candles'
