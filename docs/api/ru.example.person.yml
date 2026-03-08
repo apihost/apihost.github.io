@@ -1,15 +1,22 @@
 person:
   names:
-    - name: 'Иванов Иван Иванович'
+    - type: 'Основное имя'
+      name: 'Иванов Иван Иванович'
       icon: 'fas fa-user'
-    - name: 'Ivanov Ivan Ivanovich'
+      weight: 10
+    - type: 'Транслитерация'
+      name: 'Ivanov Ivan Ivanovich'
       icon: 'fas fa-user'
+      weight: 10
   nicknames:
-    - name: 'MegaIvan87'
+    - type: 'Основной псевдоним'
+      name: 'MegaIvan87'
       icon: 'fas fa-user'
+      weight: 10
   birthday:
     - date: '1999-01-23'
       icon: 'fas fa-cake-candles'
+      weight: 10
   addresses:
     - name: 'Адрес местонахождения'
       icon: 'fas fa-location-dot'
@@ -90,3 +97,4 @@ person:
         Version: GnuPG v1
         ... [Key Data] ...
         -----END PGP PUBLIC KEY BLOCK-----
+      weight: 10
