@@ -83,3 +83,10 @@ person:
       description: 'Vivamus efficitur, magna at euismod commodo, ante tortor dignissim ante, nec tempus felis urna non enim.'
       url: 'https://twitch.com/'
       weight: 10
+  signatures:
+    - name: 'gpg'
+      signature: |
+        -----BEGIN PGP PUBLIC KEY BLOCK-----
+        Version: GnuPG v1
+        ... [Key Data] ...
+        -----END PGP PUBLIC KEY BLOCK-----
