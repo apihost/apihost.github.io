@@ -2,12 +2,12 @@ crypto:
   - network: 'eth'
     address: 'bc1000000000000000000000000000000000000000'
     currency: 'btc'
-    weight: 1
+    weight: 10
   - network: 'eth'
     address: '0x0000000000000000000000000000000000000000'
     currency: 'eth'
-    weight: 1
+    weight: 10
   - network: 'eth'
     address: 'EQ000000000000000000000000000000000000000000000'
     currency: 'ton'
-    weight: 1
+    weight: 10

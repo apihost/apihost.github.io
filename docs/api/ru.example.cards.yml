@@ -2,12 +2,12 @@ cards:
   - bank: 'Alfa Bank'
     number: '0000000000000000'
     currency: 'eur'
-    weight: 1
+    weight: 10
   - bank: 'Alfa Bank'
     number: '0000000000000000'
     currency: 'rub'
-    weight: 1
+    weight: 10
   - bank: 'Alfa Bank'
     number: '0000000000000000'
     currency: 'usd'
-    weight: 1
+    weight: 10

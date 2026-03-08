@@ -1,0 +1,51 @@
+projects:
+  - name: 'libSYS'
+    description: 'Общая библиотека по работе с различными системами.'
+    icon: 'fas fa-globe'
+    url: 'https://libsys.ru/'
+    weight: 1
+  - name: 'libCMD'
+    description: 'Библиотека по работе с командами терминала.'
+    icon: 'fas fa-globe'
+    url: 'https://libcmd.ru/'
+    weight: 10
+  - name: 'libCRYPTO'
+    description: 'Библиотека по работе с crypto-функциями.'
+    icon: 'fas fa-globe'
+    url: 'https://libcrypto.ru/'
+    weight: 10
+  - name: 'libDB'
+    description: 'Библиотека по работе с базами данных.'
+    icon: 'fas fa-globe'
+    url: 'https://libdb.ru/'
+    weight: 10
+  - name: 'libFS'
+    description: 'Библиотека по работе с файловыми системами.'
+    icon: 'fas fa-globe'
+    url: 'https://libfs.ru/'
+    weight: 10
+  - name: 'libPBS'
+    description: 'Библиотека по работе с Proxmox Backup Server.'
+    icon: 'fas fa-globe'
+    url: 'https://libpbs.ru/'
+    weight: 10
+  - name: 'libPMG'
+    description: 'Библиотека по работе с Proxmox Mail Gateway.'
+    icon: 'fas fa-globe'
+    url: 'https://libpmg.ru/'
+    weight: 10
+  - name: 'libPVE'
+    description: 'Библиотека по работе с Proxmox VE.'
+    icon: 'fas fa-globe'
+    url: 'https://libpve.ru/'
+    weight: 10
+  - name: 'libZFS'
+    description: 'Библиотека по работе с файловой системой ZFS.'
+    icon: 'fas fa-globe'
+    url: 'https://libzfs.ru/'
+    weight: 10
+  - name: 'netCFG'
+    description: 'Библиотека по работе с сетевой инфраструктурой.'
+    icon: 'fas fa-globe'
+    url: 'https://netcfg.ru/'
+    weight: 10
