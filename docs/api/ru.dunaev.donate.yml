@@ -2,9 +2,4 @@ donate:
   wallets:
       - name: 'YooMoney'
         number: '410012478387285'
-        target: 'For the development of projects.'
         amount: '100'
-        fio: false
-        email: false
-        phone: false
-        address: false
