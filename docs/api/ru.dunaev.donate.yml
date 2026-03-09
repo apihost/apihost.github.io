@@ -3,3 +3,6 @@ donate:
       - name: 'YooMoney'
         number: '410012478387285'
         amount: '100'
+      - name: 'YooMoney'
+        number: '000000000000000'
+        amount: '100'
