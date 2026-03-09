@@ -1,1 +1,1 @@
-{"donate":{"wallets":[{"name":"YooMoney","number":"0000000000000000","target":"For the development of projects.","amount":"100","fio":true,"email":true,"phone":true,"address":false}]}}
+{"donate":{"wallets":[{"name":"YooMoney","number":"0000000000000000","target":"For the development of projects.","amount":"100","fio":false,"email":false,"phone":false,"address":false}]}}
