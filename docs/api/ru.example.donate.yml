@@ -7,4 +7,4 @@ donate:
         fio: true
         email: true
         phone: true
-        address: true
+        address: false
