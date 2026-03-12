@@ -62,9 +62,9 @@ person:
     - name: 'University 1'
       icon: 'fas fa-graduation-cap'
       description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
-      date:
-        start: '2001-01-01T00:00:00Z'
-        stop: '2006-01-01T00:00:00Z'
+      dates:
+        - '2001-01-01T00:00:00Z'
+        - '2006-01-01T00:00:00Z'
       achievements:
         - 'Duis venenatis, neque ut mattis consectetur, lorem felis elementum diam, nec egestas erat risus vel orci.'
         - 'Nulla vulputate sem suscipit arcu viverra dapibus. Aliquam at neque viverra, hendrerit enim nec, sollicitudin neque.'
@@ -74,9 +74,9 @@ person:
     - name: 'University 2'
       icon: 'fas fa-graduation-cap'
       description: 'Integer vestibulum dolor sed urna maximus, euismod vestibulum quam dignissim.'
-      date:
-        start: '2001-01-01T00:00:00Z'
-        stop: '2006-01-01T00:00:00Z'
+      dates:
+        - '2001-01-01T00:00:00Z'
+        - '2006-01-01T00:00:00Z'
       achievements:
         - 'Duis venenatis, neque ut mattis consectetur, lorem felis elementum diam, nec egestas erat risus vel orci.'
         - 'Nulla vulputate sem suscipit arcu viverra dapibus. Aliquam at neque viverra, hendrerit enim nec, sollicitudin neque.'
@@ -86,9 +86,9 @@ person:
     - name: 'University 3'
       icon: 'fas fa-graduation-cap'
       description: 'Quisque sagittis mollis lacinia.'
-      date:
-        start: '2001-01-01T00:00:00Z'
-        stop: '2006-01-01T00:00:00Z'
+      dates:
+        - '2001-01-01T00:00:00Z'
+        - '2006-01-01T00:00:00Z'
       achievements:
         - 'Duis venenatis, neque ut mattis consectetur, lorem felis elementum diam, nec egestas erat risus vel orci.'
         - 'Nulla vulputate sem suscipit arcu viverra dapibus. Aliquam at neque viverra, hendrerit enim nec, sollicitudin neque.'
@@ -113,9 +113,9 @@ person:
       icon: 'fas fa-building'
       description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
       position: 'CEO'
-      date:
-        start: '2009-05-01T00:00:00Z'
-        stop: '2023-02-01T00:00:00Z'
+      dates:
+        - '2009-05-01T00:00:00Z'
+        - '2023-02-01T00:00:00Z'
       responsibilities:
         - 'Proin finibus dictum pulvinar.'
         - 'Duis eu viverra augue.'
@@ -130,9 +130,9 @@ person:
       icon: 'fas fa-building'
       description: 'Vestibulum ut ligula non risus ultricies finibus non sed nibh.'
       position: 'CEO'
-      date:
-        start: '2009-05-01T00:00:00Z'
-        stop: '2023-02-01T00:00:00Z'
+      dates:
+        - '2009-05-01T00:00:00Z'
+        - '2023-02-01T00:00:00Z'
       responsibilities:
         - 'Proin finibus dictum pulvinar.'
         - 'Duis eu viverra augue.'
@@ -147,9 +147,9 @@ person:
       icon: 'fas fa-building'
       description: 'Fusce porttitor blandit fermentum. Maecenas posuere id velit in imperdiet.'
       position: 'CEO'
-      date:
-        start: '2009-05-01T00:00:00Z'
-        stop: '2023-02-01T00:00:00Z'
+      dates:
+        - '2009-05-01T00:00:00Z'
+        - '2023-02-01T00:00:00Z'
       responsibilities:
         - 'Proin finibus dictum pulvinar.'
         - 'Duis eu viverra augue.'
