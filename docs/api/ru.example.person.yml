@@ -60,6 +60,7 @@ person:
         weight: 10
   education:
     - name: 'University 1'
+      icon: 'fas fa-graduation-cap'
       description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
       date:
         start: '2001-01-01T00:00:00Z'
@@ -67,6 +68,7 @@ person:
       url: 'https://example.com/'
       weight: 10
     - name: 'University 2'
+      icon: 'fas fa-graduation-cap'
       description: 'Integer vestibulum dolor sed urna maximus, euismod vestibulum quam dignissim.'
       date:
         start: '2001-01-01T00:00:00Z'
@@ -74,6 +76,7 @@ person:
       url: 'https://example.org/'
       weight: 10
     - name: 'University 3'
+      icon: 'fas fa-graduation-cap'
       description: 'Quisque sagittis mollis lacinia.'
       date:
         start: '2001-01-01T00:00:00Z'
@@ -82,16 +85,20 @@ person:
       weight: 10
   skills:
     - name: 'HTML'
+      icon: 'fab fa-html5'
       description: 'Nam fermentum nisl ac felis aliquet, eu ornare velit maximus.'
       weight: 10
     - name: 'CSS'
+      icon: 'fab fa-css'
       description: 'Donec dignissim efficitur turpis at dictum.'
       weight: 10
     - name: 'JS'
+      icon: 'fab fa-js'
       description: 'Nunc sed pellentesque neque.'
       weight: 10
   experience:
     - name: 'Example Foundation'
+      icon: 'fas fa-building'
       description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
       position: 'CEO'
       date:
@@ -108,6 +115,7 @@ person:
       url: 'https://example.com/'
       weight: 10
     - name: 'Example Technologies'
+      icon: 'fas fa-building'
       description: 'Vestibulum ut ligula non risus ultricies finibus non sed nibh.'
       position: 'CEO'
       date:
@@ -124,6 +132,7 @@ person:
       url: 'https://example.org/'
       weight: 10
     - name: 'University of Example'
+      icon: 'fas fa-building'
       description: 'Fusce porttitor blandit fermentum. Maecenas posuere id velit in imperdiet.'
       position: 'CEO'
       date:
@@ -141,9 +150,11 @@ person:
       weight: 10
   languages:
     - name: 'English'
+      icon: 'fas fa-language'
       level: 'A1'
       weight: 10
     - name: 'Russian'
+      icon: 'fas fa-language'
       level: 'C2'
       weight: 10
   links:
