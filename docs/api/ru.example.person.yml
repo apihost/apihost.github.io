@@ -58,21 +58,93 @@ person:
         icon: 'fas fa-phone'
         number: '+70000000003'
         weight: 10
-  organizations:
+  education:
+    - name: 'University 1'
+      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+      date:
+        start: '2001-01-01T00:00:00Z'
+        stop: '2006-01-01T00:00:00Z'
+      url: 'https://example.com/'
+      weight: 10
+    - name: 'University 2'
+      description: 'Integer vestibulum dolor sed urna maximus, euismod vestibulum quam dignissim.'
+      date:
+        start: '2001-01-01T00:00:00Z'
+        stop: '2006-01-01T00:00:00Z'
+      url: 'https://example.org/'
+      weight: 10
+    - name: 'University 3'
+      description: 'Quisque sagittis mollis lacinia.'
+      date:
+        start: '2001-01-01T00:00:00Z'
+        stop: '2006-01-01T00:00:00Z'
+      url: 'https://example.net/'
+      weight: 10
+  skills:
+    - name: 'HTML'
+      description: 'Nam fermentum nisl ac felis aliquet, eu ornare velit maximus.'
+      weight: 10
+    - name: 'CSS'
+      description: 'Donec dignissim efficitur turpis at dictum.'
+      weight: 10
+    - name: 'JS'
+      description: 'Nunc sed pellentesque neque.'
+      weight: 10
+  experience:
     - name: 'Example Foundation'
       description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
       position: 'CEO'
+      date:
+        start: '2009-05-01T00:00:00Z'
+        stop: '2023-02-01T00:00:00Z'
+      responsibilities:
+        - 'Proin finibus dictum pulvinar.'
+        - 'Duis eu viverra augue.'
+        - 'Aliquam non risus fermentum elit venenatis cursus vel ut tortor.'
+      results:
+        - 'Aliquam lacinia ipsum eget neque auctor commodo.'
+        - 'Donec eros nisl, pretium eu tempor et, hendrerit nec augue.'
+        - 'Nulla eget nisl felis. Maecenas at arcu vel est scelerisque sodales.'
       url: 'https://example.com/'
       weight: 10
     - name: 'Example Technologies'
       description: 'Vestibulum ut ligula non risus ultricies finibus non sed nibh.'
       position: 'CEO'
+      date:
+        start: '2009-05-01T00:00:00Z'
+        stop: '2023-02-01T00:00:00Z'
+      responsibilities:
+        - 'Proin finibus dictum pulvinar.'
+        - 'Duis eu viverra augue.'
+        - 'Aliquam non risus fermentum elit venenatis cursus vel ut tortor.'
+      results:
+        - 'Aliquam lacinia ipsum eget neque auctor commodo.'
+        - 'Donec eros nisl, pretium eu tempor et, hendrerit nec augue.'
+        - 'Nulla eget nisl felis. Maecenas at arcu vel est scelerisque sodales.'
       url: 'https://example.org/'
       weight: 10
     - name: 'University of Example'
       description: 'Fusce porttitor blandit fermentum. Maecenas posuere id velit in imperdiet.'
       position: 'CEO'
+      date:
+        start: '2009-05-01T00:00:00Z'
+        stop: '2023-02-01T00:00:00Z'
+      responsibilities:
+        - 'Proin finibus dictum pulvinar.'
+        - 'Duis eu viverra augue.'
+        - 'Aliquam non risus fermentum elit venenatis cursus vel ut tortor.'
+      results:
+        - 'Aliquam lacinia ipsum eget neque auctor commodo.'
+        - 'Donec eros nisl, pretium eu tempor et, hendrerit nec augue.'
+        - 'Nulla eget nisl felis. Maecenas at arcu vel est scelerisque sodales.'
       url: 'https://example.net/'
+      weight: 10
+  languages:
+    - name: 'English'
+      level: 'A1'
+      weight: 10
+    - name: 'Russian'
+      level: 'C2'
       weight: 10
   links:
     - name: 'Facebook'
