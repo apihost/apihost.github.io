@@ -44,15 +44,15 @@ person:
       weight: 10
     - name: 'GNU/Linux'
       icon: ''
-      description: ''
+      description: 'Использую систему на пользовательских ПК и серверах.'
       weight: 10
     - name: 'Proxmox'
       icon: ''
-      description: ''
+      description: 'Использую Proxmox как платформу для развёртывания виртуальных машин.'
       weight: 10
     - name: 'OPNsense'
       icon: ''
-      description: ''
+      description: 'Работает в качестве шлюза и NAT между локальной сетью и внешним интернетом.'
       weight: 10
     - name: 'Apache HTTPD'
       icon: ''
