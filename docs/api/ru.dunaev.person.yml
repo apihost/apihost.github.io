@@ -40,15 +40,15 @@ person:
   skills:
     - name: 'HTML'
       icon: 'fab fa-html5'
-      description: 'Nam fermentum nisl ac felis aliquet, eu ornare velit maximus.'
+      description: ''
       weight: 10
     - name: 'CSS'
       icon: 'fab fa-css'
-      description: 'Donec dignissim efficitur turpis at dictum.'
+      description: ''
       weight: 10
     - name: 'JS'
       icon: 'fab fa-js'
-      description: 'Nunc sed pellentesque neque.'
+      description: ''
       weight: 10
   experience:
     - name: 'АО Институт ЭНЕРГОСЕТЬПРОЕКТ'
