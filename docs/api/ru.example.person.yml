@@ -163,10 +163,12 @@ person:
   languages:
     - name: 'English'
       icon: 'fas fa-language'
+      description: 'Pellentesque vestibulum magna odio, eu mollis turpis rhoncus id.'
       level: 'A1'
       weight: 10
     - name: 'Russian'
       icon: 'fas fa-language'
+      description: 'Nunc gravida quam eu urna ultricies, vitae laoreet nisi luctus.'
       level: 'C2'
       weight: 10
   signatures:

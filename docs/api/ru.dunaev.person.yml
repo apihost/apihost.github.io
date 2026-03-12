@@ -189,10 +189,12 @@ person:
   languages:
     - name: 'English'
       icon: 'fas fa-language'
+      description: 'Читаю техническую документацию.'
       level: 'A1'
       weight: 10
     - name: 'Russian'
       icon: 'fas fa-language'
+      description: 'Носитель языка. Пишу статьи.'
       level: 'C2'
       weight: 10
   signatures:
