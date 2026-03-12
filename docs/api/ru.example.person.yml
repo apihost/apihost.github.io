@@ -16,7 +16,7 @@ person:
   dates:
     - name: 'День рождения'
       icon: 'fas fa-cake-candles'
-      date: '1999-01-23'
+      date: '1999-03-23T15:00:00Z'
       weight: 10
   addresses:
     - name: 'Адрес местонахождения'
