@@ -65,6 +65,10 @@ person:
       date:
         start: '2001-01-01T00:00:00Z'
         stop: '2006-01-01T00:00:00Z'
+      achievements:
+        - 'Duis venenatis, neque ut mattis consectetur, lorem felis elementum diam, nec egestas erat risus vel orci.'
+        - 'Nulla vulputate sem suscipit arcu viverra dapibus. Aliquam at neque viverra, hendrerit enim nec, sollicitudin neque.'
+        - 'Morbi et augue sed ipsum iaculis tempor. Donec consectetur laoreet suscipit. Suspendisse quis mauris magna.'
       url: 'https://example.com/'
       weight: 10
     - name: 'University 2'
@@ -73,6 +77,10 @@ person:
       date:
         start: '2001-01-01T00:00:00Z'
         stop: '2006-01-01T00:00:00Z'
+      achievements:
+        - 'Duis venenatis, neque ut mattis consectetur, lorem felis elementum diam, nec egestas erat risus vel orci.'
+        - 'Nulla vulputate sem suscipit arcu viverra dapibus. Aliquam at neque viverra, hendrerit enim nec, sollicitudin neque.'
+        - 'Morbi et augue sed ipsum iaculis tempor. Donec consectetur laoreet suscipit. Suspendisse quis mauris magna.'
       url: 'https://example.org/'
       weight: 10
     - name: 'University 3'
@@ -81,6 +89,10 @@ person:
       date:
         start: '2001-01-01T00:00:00Z'
         stop: '2006-01-01T00:00:00Z'
+      achievements:
+        - 'Duis venenatis, neque ut mattis consectetur, lorem felis elementum diam, nec egestas erat risus vel orci.'
+        - 'Nulla vulputate sem suscipit arcu viverra dapibus. Aliquam at neque viverra, hendrerit enim nec, sollicitudin neque.'
+        - 'Morbi et augue sed ipsum iaculis tempor. Donec consectetur laoreet suscipit. Suspendisse quis mauris magna.'
       url: 'https://example.net/'
       weight: 10
   skills:
