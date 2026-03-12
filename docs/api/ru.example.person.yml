@@ -169,6 +169,18 @@ person:
       icon: 'fas fa-language'
       level: 'C2'
       weight: 10
+  signatures:
+    - type: 'gpg'
+      name: 'Example Sign'
+      email:
+        name: 'Example Sign'
+        icon: 'fas fa-envelope'
+        address: 'mail@example.com'
+      fingerprint:
+        name: 'Fingerprint'
+        icon: 'fas fa-signature'
+        hash: '0000000000000000000000000000000000000000'
+      weight: 10
   links:
     - name: 'Facebook'
       icon: 'fab fa-facebook'
@@ -189,16 +201,4 @@ person:
       icon: 'fab fa-twitch'
       description: 'Vivamus efficitur, magna at euismod commodo, ante tortor dignissim ante, nec tempus felis urna non enim.'
       url: 'https://twitch.com/'
-      weight: 10
-  signatures:
-    - type: 'gpg'
-      name: 'Example Sign'
-      email:
-        name: 'Example Sign'
-        icon: 'fas fa-envelope'
-        address: 'mail@example.com'
-      fingerprint:
-        name: 'Fingerprint'
-        icon: 'fas fa-signature'
-        hash: '0000000000000000000000000000000000000000'
       weight: 10
