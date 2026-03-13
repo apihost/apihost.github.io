@@ -108,7 +108,7 @@ person:
       icon: 'fab fa-js'
       description: 'Nunc sed pellentesque neque.'
       weight: 10
-  projects:
+  portfolio:
     - name: 'example.com'
       description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
       content: |
@@ -128,12 +128,15 @@ person:
       content: |
         Morbi sodales hendrerit ligula, non euismod mauris sodales sit amet.
         Duis in nisl sollicitudin leo semper faucibus nec eget lectus. Morbi euismod elit sed mauris lobortis, sed consequat metus rhoncus.
+
         Praesent cursus faucibus imperdiet. Sed et volutpat lacus. Nam sodales lobortis condimentum.
         Cras laoreet, felis sit amet cursus pretium, massa velit convallis purus, at sollicitudin augue urna in ligula.
         Vivamus interdum tempor massa, eu tempor elit semper eu.
+
         Vivamus dapibus, ligula ac efficitur porttitor, sapien ipsum venenatis lectus, vitae semper mi nunc sed lorem.
         Pellentesque ut magna nec urna congue vulputate. Praesent tempor quam sit amet est maximus, a luctus sem eleifend.
         Ut ultrices tortor felis, vitae egestas nisi suscipit at. Nam ornare turpis id elit venenatis laoreet.
+
         Cras eget urna in sapien euismod accumsan. Quisque efficitur turpis ultricies orci tristique feugiat.
       icon: 'fas fa-globe'
       url: 'https://example.org'
@@ -143,8 +146,10 @@ person:
       content: |
         Duis finibus nunc a fermentum lobortis.
         Donec suscipit, mi vitae pretium iaculis, turpis est vehicula magna, sit amet accumsan ligula elit a massa.
+
         Vestibulum orci nibh, suscipit eget nunc sit amet, commodo dignissim quam. Praesent tincidunt sit amet ex a bibendum.
         Ut dictum massa a dictum consequat. Pellentesque quis metus neque.
+
         Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
       icon: 'fas fa-globe'
       url: 'https://example.net'
