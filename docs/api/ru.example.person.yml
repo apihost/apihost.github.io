@@ -114,8 +114,10 @@ person:
       content: |
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras aliquam dolor vitae massa viverra, ut dapibus velit molestie.
         Sed quis feugiat ex. Suspendisse potenti.
+
         Nulla efficitur, sem eu convallis sodales, nunc nisi porta nulla, eu hendrerit libero turpis id turpis.
         Donec quis justo vitae erat pulvinar condimentum. Morbi ipsum tellus, sodales at augue ut, bibendum convallis turpis.
+
         Sed mollis suscipit felis et scelerisque. Praesent sed sapien sem. Nunc ut massa nisi. Quisque lobortis luctus quam.
         Donec nec est eu erat finibus semper.
       icon: 'fas fa-globe'
