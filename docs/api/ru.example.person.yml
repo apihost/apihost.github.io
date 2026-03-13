@@ -110,7 +110,7 @@ person:
       weight: 10
   portfolio:
     - name: 'example.com'
-      icon: 'fas fa-globe'
+      icon: 'fas fa-briefcase'
       description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
       content: |
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras aliquam dolor vitae massa viverra, ut dapibus velit molestie.
@@ -126,7 +126,7 @@ person:
       url: 'https://example.com'
       weight: 10
     - name: 'example.org'
-      icon: 'fas fa-globe'
+      icon: 'fas fa-briefcase'
       description: 'Quisque varius tempus tempus. Nam gravida neque a lectus mattis, tristique fermentum nibh viverra.'
       content: |
         Morbi sodales hendrerit ligula, non euismod mauris sodales sit amet.
@@ -146,7 +146,7 @@ person:
       url: 'https://example.org'
       weight: 10
     - name: 'example.net'
-      icon: 'fas fa-globe'
+      icon: 'fas fa-briefcase'
       description: 'Sed nibh lorem, finibus vitae ultrices id, fermentum quis nibh. Mauris et rutrum urna.'
       content: |
         Duis finibus nunc a fermentum lobortis.

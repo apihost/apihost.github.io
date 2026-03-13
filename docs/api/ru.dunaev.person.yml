@@ -144,8 +144,8 @@ person:
       weight: 10
   portfolio:
     - name: 'Работа в AO ESP'
-      icon: 'fas fa-globe'
-      description: ''
+      icon: 'fas fa-briefcase'
+      description: 'Работа в организации АО Институт ЭНЕРГОСЕТЬПРОЕКТ и создание сопутствующих проектов.'
       content: |
         За время работы в этой организации, я создал несколько сервисов, как для самой компании, так и для отдела ИТ:
 
@@ -155,11 +155,11 @@ person:
         - Система ведения документации.
         - Система заказа экспертизы.
       dates:
-        - '2009-05-01T00:00:00Z'
+        - '2009-05-01T05:00:00Z'
       url: ''
       weight: 10
     - name: 'Flarum Russian Community'
-      icon: 'fas fa-globe'
+      icon: 'fas fa-briefcase'
       description: 'Разработка для форумного движка Flarum.'
       content: |
         Отличный движок для контентных проектов, таких как блог или форум. Взялся за его перевод в 2015 году.
@@ -172,7 +172,7 @@ person:
       url: 'https://discuss.flarum.org/d/1545'
       weight: 10
     - name: 'Furry Community'
-      icon: 'fas fa-globe'
+      icon: 'fas fa-briefcase'
       description: 'Портал сообщества Furry.'
       content: |
         Портальная система для сообщества Furry. Нашёл один портал по тематике Furry. Пообщался с участниками.
@@ -196,7 +196,7 @@ person:
       url: ''
       weight: 10
     - name: 'GitHub Actions Store'
-      icon: 'fas fa-globe'
+      icon: 'fas fa-briefcase'
       description: 'Организация по разработке и хранении GitHub Actions.'
       content: |
         Хранилище со сценариями к GitHub Actions. Другие репозитории подключаются к этим сценариям, выполняя указанные
@@ -206,7 +206,7 @@ person:
       url: 'https://github.com/ghastore'
       weight: 10
     - name: 'GitHub Package Store'
-      icon: 'fas fa-globe'
+      icon: 'fas fa-briefcase'
       description: 'Организация по разработке и хранении скриптов и пакетов для различных систем.'
       content: |
         Созданное на GitHub’е общее хранилище со скриптами, расширениями и дополнениями для CMF / CMS,
@@ -220,7 +220,7 @@ person:
       url: 'https://github.com/pkgstore'
       weight: 10
     - name: 'GitHub Universal AIK'
-      icon: 'fas fa-globe'
+      icon: 'fas fa-briefcase'
       description: 'Организация по разработке и хранении сценариев автоматической установки ОС.'
       content: |
         Хранилище со сценариями установки для дистрибутивов Linux и MS Windows.
@@ -230,7 +230,7 @@ person:
       url: 'https://uaik.github.io/'
       weight: 10
     - name: 'LiveStreet'
-      icon: 'fas fa-globe'
+      icon: 'fas fa-briefcase'
       description: 'Разработка для социального движка LiveStreet.'
       content: |
         Сначала мне очень не нравился LiveStreet CMS. Но потом я попробовал шаблон "Developer-Kit" от vOFFka на основе
