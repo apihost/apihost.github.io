@@ -71,8 +71,8 @@ person:
       description: 'Кэширующий сервер для хранения данных в RAM. Использовал его для снижения нагрузки на веб-сервера.'
       weight: 10
     - name: 'Redis'
-      icon: 'После Memcached, перешёл на Redis.'
-      description: ''
+      icon: ''
+      description: 'После Memcached, перешёл на Redis.'
       weight: 10
     - name: 'MongoDB'
       icon: ''
