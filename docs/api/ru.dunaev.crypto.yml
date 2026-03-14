@@ -11,3 +11,7 @@ crypto:
     address: 'UQBGtBmC--RViEBVcQATDji1zDNvXovwENKGewlG3rHXGbaJ'
     currency: 'ton'
     weight: 10
+  - network: 'tron'
+    address: 'TDpvLCEmTqHsy7njSzA2u532urhtwv6BcV'
+    currency: 'usdt'
+    weight: 10

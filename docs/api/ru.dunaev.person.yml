@@ -318,6 +318,17 @@ person:
         icon: 'fas fa-signature'
         hash: 'DFE7CE9B59DEA81F1EFC143DC6462C460F3BF82A'
       weight: 10
+    - type: 'gpg'
+      name: 'Kai Kimera'
+      email:
+        name: 'Kai Kimera'
+        icon: 'fas fa-envelope'
+        address: 'mail@kaikim.ru'
+      fingerprint:
+        name: 'Fingerprint'
+        icon: 'fas fa-signature'
+        hash: ''
+      weight: 10
   links:
     - name: 'GitHub'
       icon: 'fab fa-github'
