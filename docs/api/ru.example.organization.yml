@@ -104,29 +104,29 @@ organization:
         icon: 'fas fa-phone'
         number: '+70000000003'
         weight: 10
-    sites:
-      - name: 'example.com'
-        icon: 'fas fa-globe'
-        url: 'https://example.com'
-        weight: 10
-      - name: 'example.org'
-        icon: 'fas fa-globe'
-        url: 'https://example.org'
-        weight: 10
-      - name: 'example.net'
-        icon: 'fas fa-globe'
-        url: 'https://example.net'
-        weight: 10
-    staff:
-      - name: 'Иванов Анатолий Евгеньевич'
-        icon: 'fas fa-user-tie'
-        position: 'Директор'
-        weight: 10
-      - name: 'Петров Петр Анатольевич'
-        icon: 'fas fa-user-graduate'
-        position: 'Бухгалтер'
-        weight: 10
-      - name: 'Сидоров Константин Сергеевич'
-        icon: 'fas fa-user-graduate'
-        position: 'Заместитель бухгалтера'
-        weight: 10
+  sites:
+    - name: 'example.com'
+      icon: 'fas fa-globe'
+      url: 'https://example.com'
+      weight: 10
+    - name: 'example.org'
+      icon: 'fas fa-globe'
+      url: 'https://example.org'
+      weight: 10
+    - name: 'example.net'
+      icon: 'fas fa-globe'
+      url: 'https://example.net'
+      weight: 10
+  staff:
+    - name: 'Иванов Анатолий Евгеньевич'
+      icon: 'fas fa-user-tie'
+      position: 'Директор'
+      weight: 10
+    - name: 'Петров Петр Анатольевич'
+      icon: 'fas fa-user-graduate'
+      position: 'Бухгалтер'
+      weight: 10
+    - name: 'Сидоров Константин Сергеевич'
+      icon: 'fas fa-user-graduate'
+      position: 'Заместитель бухгалтера'
+      weight: 10
