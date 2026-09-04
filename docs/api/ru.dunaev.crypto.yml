@@ -8,7 +8,7 @@ crypto:
     currency: 'eth'
     weight: 10
   - network: 'ton'
-    address: 'UQBGtBmC--RViEBVcQATDji1zDNvXovwENKGewlG3rHXGbaJ'
+    address: ''
     currency: 'ton'
     weight: 10
   - network: 'tron'
